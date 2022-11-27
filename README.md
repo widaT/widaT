@@ -9,8 +9,6 @@
 
 ### Hello, I'm wida 👋
 
-> do one thing and do it will
-
 > [Personal Blog](https://widat.github.io) 
 
 > Go语言学习群：加我微信备注，进Golang学习群
