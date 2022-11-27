@@ -10,7 +10,9 @@
 ### Hello, I'm wida 👋
 
 > do one thing and do it will
+
 > [Personal Blog](https://widat.github.io) 
+
 > Go语言学习群：加我微信备注，进Golang学习群
-   ![微信](https://raw.githubusercontent.com/widaT/learning-go/master/wechat.png)
+  <img src="https://raw.githubusercontent.com/widaT/learning-go/master/wechat.png" stype="height:50px;width:50px"
 > Discord：[![](https://badgen.net/discord/members/F9Nm9zwH)](https://discord.gg/F9Nm9zwH)
