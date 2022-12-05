@@ -14,4 +14,4 @@
 > Go语言学习群：加我微信备注，进Golang学习群
   <img src="https://learninggo.bjxw.xyz/img/wechat.png" style="height:50px;width:50px" />
   
-> Discord：[![](https://badgen.net/discord/members/F9Nm9zwH)](https://discord.gg/F9Nm9zwH)
+> Discord：[![](https://badgen.net/discord/members/xy79m8kCT7)](https://discord.gg/xy79m8kCT7)
